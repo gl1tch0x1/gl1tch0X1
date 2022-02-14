@@ -1,4 +1,4 @@
-- 👋 Hi, I’m gl1tch101 aka Mraashish0x1
+- 👋 Hi, I’m gl1tch aka Mraashish0x1
 - 👀 I’m interested in learning shell scripting,
          Python, C and Java
 - 🌱 I’m currently learning Machine Learning,
