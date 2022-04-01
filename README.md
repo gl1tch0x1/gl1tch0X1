@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aashish Pandey</h1>
-<h3 align="center">A passionate Ethical hacker, pentester and bug bouty hunter from Nepal</h3>
+<h3 align="center">A passionate Ethical hacker, pentester and bug bounty hunter from Nepal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gl1tch0x1&label=Profile%20views&color=0e75b6&style=flat" alt="gl1tch0x1" /> </p>
 
