@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aashish Pandey</h1>
 <h3 align="center">A passionate Ethical hacker, pentester and bug bounty hunter from Nepal</h3>
-<script src="https://gist.github.com/patevs/b007a0e98fb216438d4cbf559fac4166.js"></script>
+<img src="https://gist.githubusercontent.com/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" alt="gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gl1tch0x1&label=Profile%20views&color=0e75b6&style=flat" alt="gl1tch0x1" /> </p>
 
